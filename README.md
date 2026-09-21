@@ -46,8 +46,8 @@ Technology and Innovation
 <h1>🌱 Currently Learning</h1>
 I am continuously improving my programming skills, exploring development technologies, and working toward building useful and innovative projects.
 <h1>📫 Connect With Me</h1>
-GitHub: shahmahi0717
-Email: shahmahi0717@gmail.com
+GitHub: shahmahi0717 
+| Email: shahmahi0717@gmail.com
 ---
 <div align="center">
 <h3>Learning. Building. Innovating. ✨</h3>
