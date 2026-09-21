@@ -52,5 +52,5 @@ GitHub: shahmahi0717
 Email: shahmahi0717@gmail.com
 ---
 <div align="center">
-Learning. Building. Innovating. ✨
+<h3>Learning. Building. Innovating. ✨</h3>
 </div>
