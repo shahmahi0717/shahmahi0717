@@ -1,10 +1,8 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mahi+Shah+%F0%9F%91%8B" 
-     alt="Typing animation introducing Mahi Shah" />
-<p>
-  <em>Exploring ideas, building solutions, and growing through technology.</em>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Mahi+Shah+%F0%9F%91%8B"
+     alt="Mahi Shah - Typewriter Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=5000&color=808080&center=true&vCenter=true&width=700&lines=Exploring+ideas%2C+building+solutions%2C+and+growing+through+technology."
+     alt="Exploring ideas, building solutions, and growing through technology." />
 </div>
 <h1>👩‍💻 Professional Profile</h1>  
 I am a Computer Engineering student at CHARUSAT University with a keen interest in software development, web technologies, and innovation. I enjoy exploring new concepts, building practical projects, and using technology to solve real-world problems.
